@@ -37,4 +37,4 @@ file.close()
 
 for question in questions:
     response = query_engine.query(question)
-print(response)
+    print(response)
