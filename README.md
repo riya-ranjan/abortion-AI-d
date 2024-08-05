@@ -1,4 +1,3 @@
-This is a [LlamaIndex](https://www.llamaindex.ai/) project using [Next.js](https://nextjs.org/) bootstrapped with [`create-llama`](https://github.com/run-llama/LlamaIndexTS/tree/main/packages/create-llama).
 
 This project provides users information about abortion as a GPT-4 wrapper using retrieval augmented generation. 
 ## Getting Started
